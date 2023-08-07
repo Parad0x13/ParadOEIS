@@ -14,6 +14,9 @@ However I'm sure I won't be able to strictly adhere to that
 ## Shoutout to these projects and resources that aid in this project
 
 [StackEdit.io](https://stackedit.io/app#) for helping me format this markdown
+
 [Project Euler](https://projecteuler.net/) for a lifetime of mathematical fun
+
 [OEIS](https://oeis.org/) for obvious reasons
+
 [ChatGPT](https://chat.openai.com/) for helping me iron out small syntax issues and for rubber duck debugging
